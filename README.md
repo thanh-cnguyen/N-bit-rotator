@@ -1,4 +1,4 @@
-# N_bit_Rotator
+# NBitRotator
 This is for educational purposes
 
 The rotator can perform 0-3 bits rotations on an N-bit number by changing the parameter N. 
